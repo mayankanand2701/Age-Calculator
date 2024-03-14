@@ -1,0 +1,31 @@
+{
+  "name": "my-age-calculator",
+  "version": "1.0.0",
+  "description": "A JavaScript npm package for calculating age from birthdate, offering years, months, and days in a simple module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankanand2701/Age-Calculator.git"
+  },
+  "keywords": [
+    "Age",
+    "Age Calculator",
+    "Calculate Age",
+    "find age",
+    "age-finder",
+    "date",
+    "utility",
+    "age calculation",
+    "calculate",
+    "Javascript"
+  ],
+  "author": "Mayank Anand",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mayankanand2701/Age-Calculator/issues"
+  },
+  "homepage": "https://github.com/mayankanand2701/Age-Calculator#readme"
+}
